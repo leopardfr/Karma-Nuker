@@ -1,0 +1,11 @@
+{   
+    "bot-token": "YOUR BOT TOKEN HERE",
+    "nuke_on_join": "false",
+    "guild_name": "lol",
+    "ban": "false",
+    "channel_name": "",
+    "channel_name2": "",
+    "text": "PUT-MESSAGE-TO-SPAM-IN-ALL-CHANNELS",
+    "audit_log_reason": "REASON-FOR-BAN"
+    
+}
