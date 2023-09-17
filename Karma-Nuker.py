@@ -58,7 +58,7 @@ async def on_ready():
         {COLORS.m}SETTINGS:
         {COLORS.b}[NUKE ON JOIN] - {COLORS.m}{nuke_on_join}
         {COLORS.b}[GUILD NAME] - {COLORS.m}{guild_name}
-        {COLORS.b}[BAN ALL] - {COLORS.m}{ban_all}
+        {COLORS.b}[BAN ALL] - {COLORS.m}{ban}
         {COLORS.b}[CHANNEL NAME] - {COLORS.m}{channel_name}
         {COLORS.b}[SECOND CHANNEL NAME] - {COLORS.m}{channel_name2}    
         {COLORS.b}[TEXT] - {COLORS.m}{text}
