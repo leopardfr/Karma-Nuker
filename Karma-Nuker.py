@@ -50,7 +50,7 @@ async def on_ready():
 {COLORS.b}        ##   ##  ##     ## ##    ##  ##     ## ##     ##    ##   ### ##     ## ##   ##  ##       ##    ## 
 {COLORS.m}        ##    ## ##     ## ##     ## ##     ## ##     ##    ##    ##  #######  ##    ## ######## ##     ##                                                                                                                                                                                                
 {COLORS.b}       
-                                            {COLORS.m}By: @SSL | https://github.com/dtbSSL                            
+                                            {COLORS.m}By: @opsec | https://github.com/opsecs                            
                                             {COLORS.b}Prefix: {client.command_prefix}                                                           
                                             {COLORS.m}Bot Name: {client.user} {Fore.RESET}''')                                                                                                                    
     time.sleep(0.3)                                                                                                   
