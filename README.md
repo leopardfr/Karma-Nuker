@@ -13,7 +13,7 @@ Star⭐ This Repo If You Like It!
 </h3>
  
 ---
-![image](https://cdn.discordapp.com/attachments/1148327421431517366/1151594761602478254/image.png)
+![image](https://cdn.discordapp.com/attachments/1151160805761495120/1152892507500314724/image.png)
 
 ## Setup
 
