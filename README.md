@@ -2,18 +2,15 @@
 <h3 align="center">
 <a href="https://discord.gg/uPVEtUBTYg">JOIN MY DISCORD SERVER</a>
 </h3>
-
 <p align="center">
-<a href="https://github.com/dtbSSL/Karma-Nuker/releases/download/Karma-Nuker/Karma-Nuker.rar">PRESS TO DOWNLOAD</a>
-<p align="center">
-<a href="https://guns.lol/ssl">MY SOCIALS</a>
+<a href="https://guns.lol/opsec">MY SOCIALS</a>
 </p>
 <h3 align="center">
 Star⭐ This Repo If You Like It!
 </h3>
  
 ---
-![image](https://cdn.discordapp.com/attachments/1151160805761495120/1152892507500314724/image.png)
+![image](https://cdn.discordapp.com/attachments/1154132686642888756/1154947046256680960/image.png)
 
 ## Setup
 
