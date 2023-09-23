@@ -39,11 +39,11 @@ Simply run "Karma-Nuker.py".
 ```
 You can now nuke any server you have admin perms in. 
 ```
-### 6. Disclaimer!
-There might be a flaw of code appearing after pressing "Enter" when it tells you to, dw ab it. Just type in your command into the server. 
+### 6. Update!
+Recent Errors Has Been Fixed
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-→ Are u retarded and still dont understand how to set it up? [CONTACT ME HERE](https://guns.lol/law)
+→ Are u retarded and still dont understand how to set it up? [CONTACT ME HERE](https://guns.lol/opsec)
 
  
